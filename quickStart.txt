@@ -13,3 +13,8 @@ test rebase
  B person add 002
 
  A person add 002
+ 
+ 
+ C 1
+ 
+ 
