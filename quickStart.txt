@@ -9,5 +9,7 @@ B person add 001
 
 test rebase
  A person submit;
- 
+
+ B person add 002
+
  A person add 002
