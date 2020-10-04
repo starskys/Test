@@ -1,0 +1,2 @@
+config:
+  content: test version 1
