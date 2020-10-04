@@ -1,2 +1,0 @@
-config:
-  content: prob version 1
